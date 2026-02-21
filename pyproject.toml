@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "nostic7"
+version = "1.2.0"
+description = "NOΣTIC-7: Geometric-Epinoetic Intelligence Architecture"
+authors = [{name = "Or4cl3 AI Solutions", email = "or4cl3ai@gmail.com"}]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26.0",
+    "scipy>=1.11.0",
+    "networkx>=3.2",
+    "z3-solver>=4.12.0",
+    "dataclasses-json>=0.6.0",
+    "rich>=13.0.0",
+    "pydantic>=2.5.0",
+    "hashlib-compat>=1.0.0",
+]
+
+[project.optional-dependencies]
+quantum = ["qiskit>=0.44.0"]
+dev = ["pytest>=7.4.0", "black>=23.0.0", "mypy>=1.7.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["nostic7*"]
