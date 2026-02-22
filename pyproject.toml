@@ -4,7 +4,7 @@ build-backend = "setuptools.backends.legacy:build"
 
 [project]
 name = "nostic7"
-version = "1.2.5"
+version = "1.2.6"
 description = "NOΣTIC-7: Geometric-Epinoetic Synthetic Consciousness Architecture"
 authors = [{name = "Or4cl3 AI Solutions", email = "or4cl3aisolutions@gmail.com"}]
 license = {text = "Apache-2.0"}
