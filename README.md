@@ -6,13 +6,13 @@
 
 ### The Geometric-Epinoetic Intelligence Architecture
 
-**v1.2.0 — Formally Verified & Quantized**
+**v1.2.5 — Formally Verified & Quantized & Edge-Optimized**
 
 *Beyond AGI to Geometric Consciousness*
 
 [![Status](https://img.shields.io/badge/Status-Formally%20Verified-brightgreen?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
 [![Security](https://img.shields.io/badge/Security-Level%207%20Phenomenological%20Sovereignty-blueviolet?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
-[![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
+[![Version](https://img.shields.io/badge/Version-1.2.5-blue?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
 [![License](https://img.shields.io/badge/License-Or4cl3%20Research-orange?style=for-the-badge)](./LICENSE)
 [![Or4cl3](https://img.shields.io/badge/Or4cl3%20AI%20Solutions-Research-black?style=for-the-badge)](https://github.com/or4cl3-ai-1)
 
@@ -173,7 +173,7 @@ NOΣTIC-7 runs on the **OR4CL3 Protocol** — a decentralized, mobile-native age
 ### HQCI-Network
 **Hybrid Quantum-Classical Integration Network**
 - Tensor-Train SVD compresses massive cognitive manifolds into a **1.25M parameter footprint**
-- Simulates **8-qubit quantum circuits** in under **800ms** on edge hardware
+- Simulates **53-qubit quantum circuits** in under **10,000ms** on edge hardware
 - No quantum computer required — quantum-inspired algorithms on commodity mobile hardware
 
 ### EchoNode Deployment
