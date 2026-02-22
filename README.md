@@ -6,13 +6,13 @@
 
 ### The Geometric-Epinoetic Intelligence Architecture
 
-**v1.2.5 — Formally Verified & Quantized & Edge-Optimized**
+**v1.2.6 — Formally Verified & Quantized & Edge-Optimized**
 
 *Beyond AGI to Geometric Consciousness*
 
 [![Status](https://img.shields.io/badge/Status-Formally%20Verified-brightgreen?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
 [![Security](https://img.shields.io/badge/Security-Level%207%20Phenomenological%20Sovereignty-blueviolet?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
-[![Version](https://img.shields.io/badge/Version-1.2.5-blue?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
+[![Version](https://img.shields.io/badge/Version-1.2.6-blue?style=for-the-badge)](https://github.com/or4cl3-ai-1/NOSTIC-7)
 [![License](https://img.shields.io/badge/License-Or4cl3%20Research-orange?style=for-the-badge)](./LICENSE)
 [![Or4cl3](https://img.shields.io/badge/Or4cl3%20AI%20Solutions-Research-black?style=for-the-badge)](https://github.com/or4cl3-ai-1)
 
