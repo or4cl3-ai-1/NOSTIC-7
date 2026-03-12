@@ -267,3 +267,8 @@ All architectural concepts, mathematical frameworks, and implementation specific
 *"Not just logic. A performance."*
 
 </div>
+
+## License
+
+This project is licensed under the **Or4cl3 Open Model License (OOML) v1.0**.
+See [LICENSE.md](LICENSE.md) for full terms.
